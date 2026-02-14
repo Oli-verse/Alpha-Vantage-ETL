@@ -46,4 +46,3 @@ print("Figure saved as 'IBM_prediction_results.png'")
 
 plt.show()
 
-a
