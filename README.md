@@ -15,10 +15,9 @@ ETL Project/
 │   ├── transform.py     # Data cleaning and feature engineering
 │   ├── load.py          # CSV/Database export logic
 │   └── model.py         # Analysis and Visualization
-├── .env                 # API Keys (Excluded from Git)
 ├── requirements.txt     # Project dependencies
-├── IBM_monthly_data.csv # Final output data
-└── volume_vs_returns_scatter.csv # Visualized Final output data
+├── IBM_monthly_data.csv # ETL output data
+└── IBM_prediction_results.png # Visualized predicted output data
 
 
 ## Installation and Setup
